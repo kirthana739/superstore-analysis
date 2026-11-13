@@ -71,7 +71,11 @@ We followed a branching workflow so that nobody's work clashed:
   - `feature/visualization`
 - Nobody pushed directly to `dev` or `main`. Each member opened a **Pull Request** into `dev`, and the team lead reviewed and merged it.
 - Finally, `dev` was merged into `main` and tagged **`v1.0`**.
+## Charts
 
+![Category sales and profit](outputs/charts/category_sales_profit.png)
+![Monthly sales trend](outputs/charts/monthly_sales_trend.png)
+![Region profit](outputs/charts/region_profit.png)
 ## What We Learned
 
 - Branching, Pull Requests, code review and teamwork on GitHub
