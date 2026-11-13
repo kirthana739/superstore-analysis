@@ -5,9 +5,9 @@ Cleaning, analysing and visualising the Sample Superstore sales dataset using Py
 ## Team and roles
 | Member | Branch | File |
 |---|---|---|
-| Kirthana (Lead) | `feature/data-cleaning` | `src/cleaning.py` |
-| Member 2 | `feature/data-analysis` | `src/analysis.py` |
-| Member 3 | `feature/visualization` | `src/visualization.py`, `main.py` |
+| Kirthana  | `feature/data-cleaning` | `src/cleaning.py` |
+| Ananya | `feature/data-analysis` | `src/analysis.py` |
+| Poonam | `feature/visualization` | `src/visualization.py`, `main.py` |
 
 ## Dataset
 Sample Superstore (Kaggle). Place the CSV at `data/raw/superstore.csv`.
